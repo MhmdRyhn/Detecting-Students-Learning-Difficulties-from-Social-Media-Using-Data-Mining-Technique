@@ -1,5 +1,17 @@
 # Detecting-Students-Learning-Difficulties-from-Social-Media-Using-Data-Mining-Technique
 
-  This thesis work actually collects data from the informal social media platform related to Engineering Students about how they face difficulties in their learning process in the Engineering Institutions.
+  1. This thesis work actually collects data from the informal social media platform related to Engineering Students about how they face difficulties in their learning process in the Engineering Institutions.
   
-  I've faced some difficultied during data collection from Twitter using a java API twitter4j. So I've collected data from twitter and saved them in a text file from where my code collects tweets. It can be done other way by changing the code inside App.collectTweetsActionPerformed() method. twitter4j is a java API to collect tweet from twitter which can be used to collect data from twitter automatically.
+  2. I've faced some difficultied during data collection from Twitter using a java API twitter4j. So I've collected data from twitter and saved them in a text file from where my code collects tweets. It can be done other way by changing the code inside App.collectTweetsActionPerformed() method. twitter4j is a java API to collect tweet from twitter which can be used to collect data from twitter automatically.
+
+  3. Database used is named as datamining and the tables are ass follows:
+  (i) authertication (userName(varchar), passWord(varchar))
+  - Only registered user can ue the system
+  (ii) tweets (sig_word(text))
+  - This table is used to save processed tweets for creating dataset(.arff file format) for training
+  (iii) testtweet (tsData(text))
+ - This table is used to save processed tweets for creating dataset(.arff file format) for testing
+ 
+  4. The sstructure of .arff file format is easily understandable from the body of App.createDataSetActionPerformed() method.
+  
+  5. The implementation of the thesis works fine considering all the processing and claculations used. But the implementation has least facilities for the user. Anyone can develop this system more user friendly leaving the data analysis parts in different methods in different Classes.
