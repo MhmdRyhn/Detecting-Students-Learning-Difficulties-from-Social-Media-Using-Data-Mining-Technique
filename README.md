@@ -24,7 +24,7 @@ Detecting-Students-Learning-Difficulties-from-Social-Media-Using-Data-Mining-Tec
   5. The implementation of the thesis works fine considering all the processing and claculations used. But the implementation has least facilities for the user. Anyone can develop this system more user friendly leaving the data analysis parts in different methods in different Classes.
 
 ## Author
-[Mahmood Al Rayhan] (https://github.com/MhmdRyhn)
+[Mahmood Al Rayhan](https://github.com/MhmdRyhn)
 Computer Science and Engineering
 Rajshahi University of Engineering and Technology
 Rajshahi, Bangladesh
