@@ -11,7 +11,7 @@ Detecting-Students-Learning-Difficulties-from-Social-Media-Using-Data-Mining-Tec
   
   2. I've faced some difficultied during data collection from Twitter using a java API twitter4j. So I've collected data from twitter and saved them in a text file from where my code collects tweets. It can be done other way by changing the code inside App.collectTweetsActionPerformed() method. twitter4j is a java API to collect tweet from twitter which can be used to collect data from twitter automatically.
 
-  3. Database used is named as datamining and the tables are ass follows:
+  3. Database used is named as datamining and the tables are as follows:<br/>
   (i) authertication (userName(varchar), passWord(varchar))
   - Only registered user can ue the system
   (ii) tweets (sig_word(text))
@@ -24,7 +24,7 @@ Detecting-Students-Learning-Difficulties-from-Social-Media-Using-Data-Mining-Tec
   5. The implementation of the thesis works fine considering all the processing and claculations used. But the implementation has least facilities for the user. Anyone can develop this system more user friendly leaving the data analysis parts in different methods in different Classes.
 
 ## Author
-[Mahmood Al Rayhan](https://github.com/MhmdRyhn)
-Computer Science and Engineering
-Rajshahi University of Engineering and Technology
-Rajshahi, Bangladesh
+[Mahmood Al Rayhan](https://github.com/MhmdRyhn)<br/>
+Computer Science and Engineering<br/>
+Rajshahi University of Engineering and Technology<br/>
+Rajshahi, Bangladesh<br/>
