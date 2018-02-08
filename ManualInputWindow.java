@@ -6,7 +6,6 @@ import javax.swing.JFrame;
 
 
 
-
 public class ManualInputWindow extends javax.swing.JFrame {
     
     private Connection con=null;
