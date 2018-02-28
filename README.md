@@ -3,8 +3,9 @@ Detecting Students' Learning Difficulties from Social Media Using Data Mining Te
 
 ## Prerequisite
 1. Xampp
-2. Java SE IDE(Eclipse / NetBeans)
-3. twitter4j, a Java API (if you want to collect tweet from twitter automatically)
+2. JDK
+3. IDE - Eclipse / NetBeans
+4. twitter4j, a Java API (if you want to collect tweet from twitter automatically)
 
 ## Instructions
   1. This thesis work actually collects data from the informal social media platform related to Engineering Students about how they face difficulties in their learning process in the Engineering Institutions.
